@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **A few Machine Learning Projects**
 
-- 🌱 I’m currently learning **Power BI, MongoDB, Deep Learning, NLP**
+- 🌱 I’m currently learning **Power BI, MongoDB, NLP**
 
 - 📚 I’m currently studying **Computer Science and Engineering**
 
