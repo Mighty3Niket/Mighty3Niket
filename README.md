@@ -15,7 +15,7 @@
 
 - 📚 I’m currently studying **Computer Science and Engineering**
 
-- 👨‍💻 All of my projects are available at [My Repositories](My Repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Mighty3Niket?tab=repositories)
 
 - 📫 How to reach me **esunny.maiti@gmail.com**
 
