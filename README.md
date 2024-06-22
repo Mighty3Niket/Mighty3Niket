@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **esunny.maiti@gmail.com**
 
-<!- 📄 Know about my experiences [https://www.linkedin.com/in/triniket-maiti/overlay/1718809656910/single-media-viewer/?profileId=ACoAADm86bYBejbJyjlryi7KnlA29UdywoYRMIs](https://www.linkedin.com/in/triniket-maiti/overlay/1718809656910/single-media-viewer/?profileId=ACoAADm86bYBejbJyjlryi7KnlA29UdywoYRMIs)>
+#- 📄 Know about my experiences [https://www.linkedin.com/in/triniket-maiti/overlay/1718809656910/single-media-viewer/?profileId=ACoAADm86bYBejbJyjlryi7KnlA29UdywoYRMIs](https://www.linkedin.com/in/triniket-maiti/overlay/1718809656910/single-media-viewer/?profileId=ACoAADm86bYBejbJyjlryi7KnlA29UdywoYRMIs)
 
 - ⚡ Fun fact **I love playing Cricket🏏 & can sing a li'l bit😉**
 
