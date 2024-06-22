@@ -1,3 +1,5 @@
+![logo](https://github.com/Mighty3Niket/Mighty3Niket/blob/main/Github%20Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Triniket Maiti</h1>
 <h3 align="center">An ML Enthusiast from India</h3>
 
